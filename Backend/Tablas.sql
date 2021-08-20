@@ -1,5 +1,6 @@
 CREATE TABLE Alumnos (
     Nombre VARCHAR(20),
     Edad INT,
-    Estatura FLOAT
+    Estatura FLOAT,
+    Apellido VARCHAR(50)
 );
